@@ -39,6 +39,7 @@
 - [DBeaver](https://dbeaver.io/) - A free, universal database tool that supports MySQL and other databases.
 - [HeidiSQL](https://www.heidisql.com/) - A lightweight and fast MySQL GUI client for Windows.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - A powerful database IDE by JetBrains, supporting MySQL and other databases.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - An open-source, cross-platform SQL editor and database manager that supports MySQL and other databases.
 
 ## Backup and Migration
 
